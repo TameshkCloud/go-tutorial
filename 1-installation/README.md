@@ -34,6 +34,12 @@ Now you need to setup Go language environment variables for your project. Common
 Open your `.profile`file and add global variable as follow at the end of the file. You may want to add this into `~/.zshrc` or `~/.bashrc` file as per your shell configuration.
 
 
+Create default directory for our workspace by using: 
+
+```bash
+$ mkdir ~/go
+```
+
 `GOROOT` is the location where Go package is installed on your system.
 
 ```bash
@@ -41,6 +47,7 @@ export GOROOT=/usr/local/go
 ```
 
 `GOPATH` is the location of your work directory. For example my project directory is ~/go .
+
 
 ```bash
 export GOPATH=$HOME/go
@@ -122,6 +129,12 @@ For a system-wide installation of Go it needs to add the following line at the b
 
 ``` bash
 export PATH=$PATH:/usr/local/go/bin
+```
+
+Create default directory for our workspace by using: 
+
+```bash
+$ mkdir ~/go
 ```
 
 Set `GOPATH`, `GOBIN` and `PATH` environment variables by adding the following lines at the bottom of your `~/.profile` file (or `~/.zshrc` or `~/.bashrc` file):
