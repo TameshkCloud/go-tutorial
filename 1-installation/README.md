@@ -1,9 +1,16 @@
 # Golang Installation
 ![Gopher jigsaw](../jigsaw.png)
 
- - [How To Install Go on Ubuntu 18.04](#install-ubuntu)
- - [How To Install Go on MacOS](#install-macos)
- - [Hello World for testing](#helloworld-golang)
+<!-- TOC -->
+
+- [Document Navigation](#document-navigation)
+    - [How To Install Go on Ubuntu 18.04](#install-ubuntu)
+    - [How To Install Go on MacOS](#install-macos)
+    - [Hello World for testing](#helloworld-golang)
+
+<!-- /TOC -->
+
+ 
 
 ## How To Install Go on Ubuntu 18.04
 
