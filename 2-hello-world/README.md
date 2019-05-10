@@ -1,4 +1,3 @@
-
 # Hello World in Golang
 Our first program will print the classic “hello world” message.
 
@@ -36,6 +35,7 @@ hello world
 ```
 
 ## Navigate
-[Main Page](../README.md)
+[List Of Content](../README.md)
 
 Back To Previous Article: [<< Golang Installation](../1-installation/README.md)
+Go to Next Article: [Golang Basic Value Types >>](../3-values/README.md)
