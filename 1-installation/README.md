@@ -1,9 +1,9 @@
 # Golang Installation
 ![Gopher jigsaw](../jigsaw.png)
 
- - [How To Install Go on Ubuntu 18.04](#install-go-on-ubuntu)
- * [How To Install Go on MacOS](#install-go-on-macos)
- * [Hello World for testing](#hello-world-in-golang)
+ - [How To Install Go on Ubuntu 18.04](#install-ubuntu)
+ - [How To Install Go on MacOS](#install-macos)
+ - [Hello World for testing](#helloworld-golang)
 
 ## How To Install Go on Ubuntu 18.04
 
@@ -131,7 +131,7 @@ For a system-wide installation of Go it needs to add the following line at the b
 export PATH=$PATH:/usr/local/go/bin
 ```
 
-Create default directory for our workspace by using: 
+two Create default directory for our workspace by using: 
 
 ```bash
 $ mkdir ~/go
