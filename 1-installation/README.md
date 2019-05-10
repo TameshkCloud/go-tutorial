@@ -1,5 +1,4 @@
 # Golang Installation
-![Gopher jigsaw](../jigsaw.png)
 
 <!-- TOC -->
 
@@ -10,11 +9,11 @@
 
 <!-- /TOC -->
 
- 
+![Gopher gopher](../gopher.png)
 
 ## How To Install Go on Ubuntu 18.04
 
-### Step 1 – Install Go on Ubuntu
+#### Step 1 – Install Go on Ubuntu
 Login to your Ubuntu system using ssh and upgrade to apply latest security updates there.
 
 ```bash
@@ -35,7 +34,7 @@ $ sudo tar -xvf go1.12.2.linux-amd64.tar.gz
 $ sudo mv go /usr/local
 ```
 
-### Step 2 – Setup Go Environment
+#### Step 2 – Setup Go Environment
 Now you need to setup Go language environment variables for your project. Commonly you need to set 3 environment variables as `GOROOT`, `GOPATH` and `PATH`.
 
 Open your `.profile`file and add global variable as follow at the end of the file. You may want to add this into `~/.zshrc` or `~/.bashrc` file as per your shell configuration.
@@ -77,7 +76,7 @@ source ~/.zshrc # if you added variables to /.zshrc
 ```
 
 
-### Step 3 – Verify Installation
+#### Step 3 – Verify Installation
 At this step, you have successfully installed and configured go language on your system. First, use the following command to check the Go version.
 
 ``` bash
@@ -95,13 +94,13 @@ $ go env
 ## How To Install Go on MacOS
 It's similar to Ubuntu but some minor differences...
 
-### Step 1 - Remove the Old Installation of Go (if you have it)
+#### Step 1 - Remove the Old Installation of Go (if you have it)
 
 ```
 $ sudo rm -rfv /usr/local/go
 ```
 
-### Step 2 - Download and install Go
+#### Step 2 - Download and install Go
 
 ```
 $ curl -O https://dl.google.com/go/go1.12.2.linux-amd64.tar.gz
@@ -147,7 +146,6 @@ $ go env
 ```
 
 ## Hello World for testing
-
 Create $GOPATH/src directory:
 
 ```bash
