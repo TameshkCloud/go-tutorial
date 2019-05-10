@@ -35,4 +35,7 @@ $ ./hello-world
 hello world
 ```
 
-This document resource is [GoByExample.com](https://gobyexample.com/hello-world)
+## Navigate
+[Main Page](../README.md)
+
+Back To Previous Article: [<< Golang Installation](../1-installation/README.md)

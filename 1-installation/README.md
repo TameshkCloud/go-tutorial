@@ -175,3 +175,9 @@ $ hello
 # Hello World!
 ```
 If the program returns “Hello World!”, then Go is successfully installed and functional.
+
+
+## Navigate
+[Main Page](../README.md)
+
+Read Next: [Hello World in Golang >>](../2-hello-world/README.md)
