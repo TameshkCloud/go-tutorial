@@ -82,25 +82,6 @@ Now also verify all configured environment variables using following command.
 
 ``` bash
 $ go env
-
-GOARCH="amd64"
-GOBIN=""
-GOCACHE="/root/.cache/go-build"
-GOEXE=""
-GOHOSTARCH="amd64"
-GOHOSTOS="linux"
-GOOS="linux"
-GOPATH="/root/Projects/Proj1"
-GORACE=""
-GOROOT="/usr/local/go"
-GOTMPDIR=""
-GOTOOLDIR="/usr/local/go/pkg/tool/linux_amd64"
-GCCGO="gccgo"
-CC="gcc"
-CXX="g++"
-CGO_ENABLED="1"
-...
-...
 ```
 
 
