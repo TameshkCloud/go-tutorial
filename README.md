@@ -1,5 +1,5 @@
 # Golang Tutorial
-![Gopher jigsaw](jigsaw.png)
+![Gopher gopher](gopher.png)
 
 Go Tutorial for all TameshkCloud team members
 
