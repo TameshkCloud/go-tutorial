@@ -178,6 +178,4 @@ If the program returns “Hello World!”, then Go is successfully installed and
 
 
 ## Navigate
-[List Of Content](../README.md)
-
-Read Next: [Hello World in Golang >>](../2-hello-world/README.md)
+[List Of Content](../README.md) | [Hello World in Golang >>](../2-hello-world/README.md)
