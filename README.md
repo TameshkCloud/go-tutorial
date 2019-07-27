@@ -1,4 +1,4 @@
-# Golang Tutorial
+# Golang Tutorial List
 ![Gopher gopher](gopher.png)
 
 Go Tutorial for all TameshkCloud team members
